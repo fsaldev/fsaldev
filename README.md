@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**fsaldev/fsaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fsaldev/fsaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Upwork as a Full Stack Developer (MERN, NextJS, Python Django) stack developer
 - 🌱 I’m currently learning AWS
