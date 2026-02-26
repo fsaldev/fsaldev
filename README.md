@@ -10,5 +10,4 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Website Development
 - 🤔 I’m looking for help with Blockchain
 - 💬 Ask me about MERN
-- 📫 How to reach me: fsaldev1@gmail.com
 - ⚡ Fun fact: Freelnacer
